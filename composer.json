@@ -1,0 +1,16 @@
+{
+    "name": "mdhemalakhand/hsoft-review",
+    "description": "HSoft Review is a WooCommerce based review plugin which increase your sale more fast and reliable",
+    "autoload": {
+        "psr-4": {
+            "HSOFT\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hsoft"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
